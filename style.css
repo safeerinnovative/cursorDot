@@ -1,0 +1,6 @@
+.ball{z-index: 1;width:6px;height:6px;position:fixed;top:0;left:0;border:3px solid rgb(29, 129, 196);;border-radius:50%;background-color: rgb(29, 129, 196);}
+.ball2{z-index: 1;width:1px;height:1px;position:fixed;top:0;left:0;border:3px solid rgb(29, 129, 196);;border-radius:50%;background-color: rgb(29, 129, 196);}
+.ball-grow{width: 35px !important;height: 35px !important;background-color: rgb(29, 129, 196, 0) !important;transition: .1s;}
+.small-hide{opacity: 0;}
+a, input{position: relative;z-index: 2;margin-left: 25%;margin-top: 250px;}
+html{cursor: none;}
